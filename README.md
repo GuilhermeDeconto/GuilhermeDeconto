@@ -19,7 +19,7 @@ Hi, I am a mobile developer from Brazil, currently, working as iOS Developer. Be
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-181717?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat-square&logo=mongodb)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-181717?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Xcode](https://img.shields.io/badge/-Xcode-181717?style=flat-square&logo=xcode)
