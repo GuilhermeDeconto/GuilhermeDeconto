@@ -1,4 +1,4 @@
-# Hi, I'm Guilherme Deconto 👋
+# Hi, I'm Guilherme Deconto <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px">
 
 Hi, I am a mobile developer from Brazil, currently, working as iOS Developer. Beside's programming, I enjoy playing video games and messing around with unity and unreal engine.
 
