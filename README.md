@@ -24,7 +24,7 @@ Hi, I am a mobile developer from Brazil, currently, working as iOS Developer. Be
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Xcode](https://img.shields.io/badge/-Xcode-181717?style=flat-square&logo=xcode)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-181717?style=flat-square&logo=android-studio)
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-00599C?style=flat-square&logo=visual-studio)
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-181717?style=flat-square&logo=visual-studio)
 ![Intellij](https://img.shields.io/badge/-Intellij-181717?style=flat-square&logo=intellij-idea)
 
 <!--
