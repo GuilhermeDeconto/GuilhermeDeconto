@@ -44,7 +44,7 @@ Hi, I am a mobile developer from Brazil, currently, working as iOS Developer. Be
 
 # Stats
 [![Deconto's github stats](https://github-readme-stats.vercel.app/api?username=GuilhermeDeconto&show_icons=true&count_private=true&theme=radical)](https://github.com/GuilhermeDeconto)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDeconto&langs_count=6&count_private=true&layout=compact&theme=radical)](https://github.com/GuilhermeDeconto)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDeconto&langs_count=8&count_private=true&layout=compact&theme=radical)](https://github.com/GuilhermeDeconto)
 
 
 <!--
